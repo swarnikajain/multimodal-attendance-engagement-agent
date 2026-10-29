@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Caches and testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Environments
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+
+# Streamlit local state
+.streamlit/secrets.toml
+
+# Data directory runtime files (ignore temporary media and db if private)
+data/temp_uploads/*
+!data/temp_uploads/.gitkeep
+data/exports/*
+!data/exports/.gitkeep
+*.mp4
+*.avi
+*.wav
+*.mp3
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
