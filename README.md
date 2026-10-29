@@ -14,7 +14,7 @@ An intelligent, local-first educational assistance system that automates attenda
 
 ## 📌 Project Links & Video Demonstration
 
-- **GitHub Repository:** `https://github.com/<your-username>/multimodal-attendance-engagement-agent` *(Replace with your URL)*
+- **GitHub Repository:** `https://github.com/swarnikajain/multimodal-attendance-engagement-agent`
 - **Walkthrough Demonstration Video:** `https://youtu.be/<your-demo-video-id>` *(3–5 minute recorded screencast following `DEMO_SCRIPT.md`)*
 
 ---
